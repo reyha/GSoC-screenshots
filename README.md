@@ -1,1 +1,1 @@
-# GSoC-screenshots
+# screenshots
